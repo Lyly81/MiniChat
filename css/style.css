@@ -1,0 +1,22 @@
+* {
+    /* padding: ;
+    margin: ; */
+}
+
+body {
+    background-color: #F7F7F7;
+}
+
+.page {
+    width: 1000px;
+    border: 1px, dashed, pink;
+}
+
+a, li {
+    text-decoration: none;
+}
+
+.titre {
+    border: 2px, solid, green;
+}
+
